@@ -1,0 +1,10 @@
+pickle
+sklearn
+logging
+joblib 
+fastapi
+uvicorn
+numpy
+pandas
+Pillow
+pydantic
